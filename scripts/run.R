@@ -9,6 +9,3 @@ staticimports::import()
   pagedown::chrome_print(input = 'safety_plan.Rmd', output = paste0('docs/safety_plan_sern_', project_region, '_', project_year, '.pdf'))
 
 }
-
-
-docs/safety_plan_sern-peace-fish-passage.pdf'

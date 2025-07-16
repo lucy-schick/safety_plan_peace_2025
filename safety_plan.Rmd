@@ -35,7 +35,7 @@ Al Irvine
 New Graph Environment Ltd.  
 al@newgraphenvironment   
 250-777-1518  
-Date Original: 2025-07-16
+Date Original: 2025-07-16  
 Date Revised: `r format(Sys.Date(), "%Y-%m-%d")` 
 :::
 
@@ -121,15 +121,15 @@ The latest version of this pdf can be downloaded [here](`r knitr::asis_output(li
 
 <br>
 
-This project has two primary goals. The first is to conduct fish passage (Phase 1) and habitat confirmation (Phase 2) assessments within the Nation River, Upper Peace River, Parsnip Arm, and Peace Arm watershed groups. The second goal is to implement baseline monitoring at previously assessed and/or remediated crossings in the Parsnip, Crooked, and Carp River watershed groups. Fieldwork will include electrofishing at permitted sites and collection of environmental DNA (eDNA) samples. Field activities will be completed with support from crews from McLeod Lake Indian Band and other partner organizations. A summary of potential sites for fish passage assessments, habitat confirmation assessments, and electrofishing is provided in Table \@ref(tab:tab-electrofishing-sites) and Figure \@ref(fig:map-prep). Google Earth (KML) and Garmin (GPX) files for the proposed sites are available for download [here](`r knitr::asis_output(link_kml)`). 
+This project has two primary goals. The first is to conduct fish passage (Phase 1) and habitat confirmation (Phase 2) assessments within the Nation River, Upper Peace River, Parsnip Arm, and Peace Arm watershed groups. The second goal is to implement baseline monitoring at previously assessed and/or remediated crossings in the Parsnip, Crooked, and Carp River watershed groups. Fieldwork will include electrofishing at permitted sites and collection of environmental DNA (eDNA) samples. 
 
 <br>
 
-Georeferenced pdf maps for select watershed groups can be accessed and downloaded [here](`r knitr::asis_output(link_fieldmaps)`).
+Field activities will be completed with support from crews from McLeod Lake Indian Band and other partner organizations. A summary of potential sites for fish passage assessments, habitat confirmation assessments, and electrofishing is provided in Table \@ref(tab:tab-electrofishing-sites) and Figure \@ref(fig:map-prep). Google Earth (KML) and Garmin (GPX) files for the proposed sites are available for download [here](`r knitr::asis_output(link_kml)`). Georeferenced pdf maps for select watershed groups can be accessed and downloaded [here](`r knitr::asis_output(link_fieldmaps)`).
 
 <br>
 
-## New Graph Employee Information {.unnumbered}
+## New Graph Environment Employee Information {.unnumbered}
 
 Al Irvine  
 Vehicle:  `r vehicle1`  
@@ -296,7 +296,7 @@ ggmap::ggmap(mybasemap) +
 
 ## Emergency Response Plan {.unnumbered}
 
-New Graph's detailed emergency response procedures can be found [here](https://www.newgraphenvironment.com/hsp/plans-and-assessments.html#emergency-response-plan-erp-and-procedures). These procedures should be reviewed and an emergency response plan should be completed for each job site. Our Emergency Responce Plan template can be downloaded [here](https://github.com/NewGraphEnvironment/hsp/blob/master/data/form_templates/ERP_template.pdf).
+New Graph Environment's detailed emergency response procedures can be found [here](https://www.newgraphenvironment.com/hsp/plans-and-assessments.html#emergency-response-plan-erp-and-procedures). These procedures should be reviewed and an emergency response plan should be completed for each job site. Our Emergency Responce Plan template can be downloaded [here](https://github.com/NewGraphEnvironment/hsp/blob/master/data/form_templates/ERP_template.pdf).
 
 <br>
 
