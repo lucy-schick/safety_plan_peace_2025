@@ -64,7 +64,7 @@ project_year <- stringr::str_match(params$repo_url, "safety_plan_[^_]+_([0-9]{4}
 gis_planning_file <- "planning_20250703.gpkg"
 
 # Create links
-link_kml <- paste0(params$repo_url, '/blob/main/docs/sites_sern_', project_region, '_', project_year, '_', format(Sys.Date(), '%Y%m%d'), '_kml_gpx.zip')
+link_kml <- paste0(params$repo_url, '/blob/main/docs/sites_', project_region, '_', project_year, '_', format(Sys.Date(), '%Y%m%d'), '_kml_gpx.zip')
 link_pdf <- paste0(params$repo_url, '/blob/main/docs/safety_plan_sern_', project_region, '_', project_year, '.pdf')
 # We only have maps for parsnip
 link_fieldmaps <- 'https://hillcrestgeo.ca/outgoing/fishpassage/projects/parsnip/'
