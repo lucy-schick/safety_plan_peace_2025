@@ -71,7 +71,7 @@ link_fieldmaps <- 'https://hillcrestgeo.ca/outgoing/fishpassage/projects/parsnip
 
 ## NEED TO UPDATE ACCOMODATIONS
 hotel1 <- "3396 Rosia Road, Prince George, BC V2K 4Y5"
-hotel2 <- "6596 Dawson Road, Prince George, BC V2K 5Y4"
+hotel2 <- "3990 Larisa Court, Prince George, BC V2K 0B1"
 
 vehicle1 <- '2013 Toyota Tundra black w/flatdeck and yellow can-am quad'
 vehicle2 <- '2006 Pontiac Vibe red'
@@ -190,9 +190,7 @@ MINIMUM REQUIREMENTS FOR FIELD TRUCKS INCLUDE A QUALITY RADIO APPROPRIATE FOR FO
 <br>
 
 ```{r table-equipment, eval=TRUE}
-eq <- readr::read_csv(
-  url(("https://raw.githubusercontent.com/NewGraphEnvironment/new_graphiti/main/assets/data/equipment.csv"))
-)
+eq <- readr::read_csv("~/Projects/repo/onboarding/data/equipment.csv")
 
 ## personal equipment 
 
@@ -200,7 +198,7 @@ tab_eq_pers <- eq |>
   dplyr::filter(!is.na(eq_pers_standard)) |>  
   dplyr::arrange(eq_safety) |>  ## have these first on the list
   dplyr::select(eq_item) |>  
-  my_untidy_table() |> 
+  my_untidy_table() |>
   dplyr::rename(Equipment = eq_item)
 
 my_caption <- 'Personal Equipment Checklist - SEE NOTE ABOVE FOR MINIMUM REQUIREMENTS'
@@ -324,7 +322,7 @@ Information on fish presence/absence, species composition, density, and distribu
 
 <br>
 
-Passive Integrated Transponder (PIT) tagging equipment is available and may be used to mark fish captured at electrofishing sites. Tagging can support long-term monitoring by providing data on population size and fish movement upstream and downstream of crossings. An overview of the tagging process is available [here](https://www.youtube.com/watch?v=9CKZ9yaS5o8).
+Passive Integrated Transponder (PIT) tagging equipment is available and may be used to mark fish captured at electrofishing sites. Tagging can support long-term monitoring by providing data on population size and fish movement upstream and downstream of crossings. An overview of the tagging process is available [here](https://www.youtube.com/watch?v=9CKZ9yaS5o8). To anesthetize fish prior to PIT tagging, we use a clove oil solution at 0.1mL/L (1:10,000), which provides effective sedation with minimal residual effects [@fernandes_etal2017efficacyclove]. The solution is prepared by dissolving clove oil in ethyl alcohol at a 1:9 ratio before mixing into water [@fernandes_etal2017efficacyclove].
 
 <br>
 
