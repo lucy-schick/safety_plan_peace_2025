@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.8.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
-<bounds minlat="54.485633720795271" minlon="-125.760752083309455" maxlat="56.310986130631854" maxlon="-121.803060328815818"/>                                   
+<bounds minlat="54.485633720795271" minlon="-125.760752083309455" maxlat="55.573295630367284" maxlon="-121.803060328815818"/>                                   
 </metadata>
 <wpt lat="54.485633720795271" lon="-121.803060328815818">
   <name>125000 - NA</name>
@@ -24,32 +24,24 @@
   <desc>bt_rearing - 14.4km. NA</desc>
 </wpt>
 <wpt lat="55.056012590018405" lon="-124.968874499988218">
-  <name>125749 - mod</name>
+  <name>125749 - high</name>
   <desc>bt_rearing - 8.3km. Assessed in 2013, see comments.  RB observed us during assessement.  Downstream is primarily wetland and lakes. 8km of BT rearing habitat modelled upstream, and two other CBS ranked as Barrier and potential barrier.</desc>
 </wpt>
 <wpt lat="55.176090780245076" lon="-125.205264349868671">
   <name>125755 - high</name>
   <desc>bt_rearing - 22.4km. Baffles in the culvert. BB;CC;CSU;LSU;NSC;RB;RB/CT;RSC;SP;SU documented upstream.  Several lakes upstream, with no other CBS blocking acess to lakes.</desc>
 </wpt>
-<wpt lat="55.230837668365993" lon="-125.279192132531321">
-  <name>125825 - mod</name>
-  <desc>bt_rearing - 50.3km. 100% backwatered at time of assessment in 2013.  BT documented upstream. 50 km of bt rearing habitat modelled upstream. CBS located upstream ranked as passable.</desc>
-</wpt>
 <wpt lat="55.573295630367284" lon="-125.264061539292584">
   <name>15200034 - mod</name>
-  <desc>bt_rearing - 6km. Trib to Kwanika Creek.  6km of BT rearing habitat modelled upstream,  with no other CBS upstream.  No fish documented in stream.</desc>
-</wpt>
-<wpt lat="55.385364002369577" lon="-124.46852030384072">
-  <name>15200337 - mod</name>
-  <desc>bt_rearing - 30km. BT captured us of the crossing in 2000. Unsure if this is actaully a crossing, should confirm.</desc>
+  <desc>bt_rearing - 6km. Looks like and enormous drive with high potential that there is no access. Trib to Kwanika Creek.  6km of BT rearing habitat modelled upstream,  with no other CBS upstream.  No fish documented in stream.</desc>
 </wpt>
 <wpt lat="55.445164567077548" lon="-124.528526700381818">
-  <name>15200384 - high</name>
-  <desc>bt_rearing - 4.6km. Trib to Gillis Creek which has several documented BT observations.  4km of BT rearing habitat upstream and no other crossings. Looks like nice wetland habitat in aerial imagery.</desc>
+  <name>15200384 - mod</name>
+  <desc>bt_rearing - 4.6km. Crossing appears to be likely pulled. Trib to Gillis Creek which has several documented BT observations.  4km of BT rearing habitat upstream and no other crossings. Looks like nice wetland habitat in aerial imagery.</desc>
 </wpt>
 <wpt lat="55.506126091815574" lon="-124.579231455734117">
-  <name>15200412 - high</name>
-  <desc>bt_rearing - 12.1km. BT captured dosntream in 2000s.  12km of BT rearing habitat upstream with only 1 other potential CBS located at the very top of the watershed/study area boundary. BT documented in nearby tribs.  Would be good to check out the crossings on the tribs south of this crossing as well.</desc>
+  <name>15200412 - mod</name>
+  <desc>bt_rearing - 12.1km. Crossing appears to be likley pulled. BT captured dosntream in 2000s.  12km of BT rearing habitat upstream with only 1 other potential CBS located at the very top of the watershed/study area boundary. BT documented in nearby tribs.  Would be good to check out the crossings on the tribs south of this crossing as well.</desc>
 </wpt>
 <wpt lat="55.483535773547494" lon="-125.760752083309455">
   <name>15200939 - mod</name>
@@ -70,10 +62,6 @@
 <wpt lat="55.234214012001082" lon="-124.294472282453668">
   <name>15201343 - mod</name>
   <desc>bt_rearing - 13.4km. CCG;LKC;RB;SP documented upstream.  13km of BT rearing habtitat modelled upstream,  with no other CBS based on aerial imagery.  Some wetland area upstream.</desc>
-</wpt>
-<wpt lat="55.264110057313658" lon="-124.104564988767933">
-  <name>15201576 - mod</name>
-  <desc>bt_rearing - 10.4km. Likely no crossing present but unable to confirm with aerial imagery. Trib to Sylvester Creek which has BT documented, and also not far upstream from the Sylvester/Nation confluence.  10km of BT rearing habitat modelled upstream, with only 1 other CBS upstream. Worth assessing this CBS as well,  on Thut FSR.</desc>
 </wpt>
 <wpt lat="55.460492146724519" lon="-125.682537161981074">
   <name>15201728 - mod</name>
@@ -99,17 +87,9 @@
   <name>15203146 - mod</name>
   <desc>bt_rearing - 8.9km. This crossing is just upstream from Nation Lake, with wetland habitat upstream.  8km of BT rearing habitat modelled upstream and No other crossings upstream.</desc>
 </wpt>
-<wpt lat="55.56235247498936" lon="-123.740112664739641">
-  <name>16400370 - mod</name>
-  <desc>bt_rearing - 3km. Downstream crossings are either not present or bridges.  This looks to be the first true crossing. This is a trib to Blackwater Creek, which seems like a big, low angle, wetland-type drainage.  only 3km of bt rearing habitat upstream.</desc>
-</wpt>
 <wpt lat="55.157733046319251" lon="-123.181143880978908">
   <name>16400428 - mod</name>
   <desc>bt_rearing - 4.2km. Stream drains Grayling Lake which has documented PCC and RB.</desc>
-</wpt>
-<wpt lat="55.839237270728802" lon="-123.701642810497205">
-  <name>16400506 - mod</name>
-  <desc>bt_rearing - 3.6km. Located just upstream of Williston Lake. Only one crossing upstream and its a bridge.</desc>
 </wpt>
 <wpt lat="55.485440485617573" lon="-123.489954408844227">
   <name>16400714 - mod</name>
@@ -140,87 +120,31 @@
   <desc>bt_rearing - 9.1km. 9km of bt rearing habitat upstream. RB documented upstream. Only one CBS upstream.</desc>
 </wpt>
 <wpt lat="55.273063369141731" lon="-123.137974783738045">
-  <name>16401699 - high</name>
-  <desc>bt_rearing - 49.7km. Assuming this is a massive culvert under the railway. Assuming passable given the many fish observations just upstream in the inlet.  Right in Mackenzie.</desc>
+  <name>16401699 - mod</name>
+  <desc>bt_rearing - 49.7km. Assuming this is a massive culvert under the railway.  Likely backwatered but should confirm. Assuming passable given the many fish observations just upstream in the inlet.  Right in Mackenzie.</desc>
 </wpt>
 <wpt lat="55.396819678104066" lon="-123.312525875640489">
   <name>16401990 - mod</name>
   <desc>bt_rearing - 6.4km. RB documented us, and 6km of BT rearing habitat modelled upstream. two other CBS upstream.</desc>
 </wpt>
-<wpt lat="55.941908703631348" lon="-122.636141979978277">
-  <name>16701130 - high</name>
-  <desc>bt_rearing - 8.3km. Crossing is 900m upstream of Carbon Creek, with BT documented at the confluence of these two streams as recently as 2012.  Stream drains Carbon Lake with no other CBS upstream.</desc>
-</wpt>
-<wpt lat="56.310986130631854" lon="-123.277616229840874">
-  <name>16701150 - mod</name>
-  <desc>bt_rearing - 4.1km. No fish documented in the stream, however, the crossing is located approximately 200m upstream of the confluence with Nabesche River, where GR and DV have been documented just just downstream.  No other CBS upstream.</desc>
-</wpt>
-<wpt lat="55.91350355712224" lon="-122.635064173398789">
-  <name>16701333 - high</name>
-  <desc>bt_rearing - 5.2km. No fish documented in the stream, however, the crossing is located approximately 500m upstream of the confluence with Carbon Creek, where BT have been documented.  No other CBS upstream.</desc>
-</wpt>
-<wpt lat="55.899520161438829" lon="-122.619394795733001">
-  <name>16701346 - mod</name>
-  <desc>bt_rearing - 4.9km. Possible bridge but unable to confirm with aerial imagery.  No fish documented in the stream, however, the crossing is located approximately 900m upstream of the confluence with Carbon Creek, where BT have been documented just downstream.  One other posible CBS upstream.</desc>
-</wpt>
-<wpt lat="55.929449934662173" lon="-123.178549297983537">
-  <name>16701712 - mod</name>
-  <desc>bt_rearing - 6.2km. No fish documented in stream but crossing is not far upstream from Williston Lake.  Several other CBS upstream.</desc>
-</wpt>
-<wpt lat="56.136666555526794" lon="-122.351103482295116">
-  <name>16701773 - high</name>
-  <desc>bt_rearing - 11.3km. Crossing is just upstream of Williston Lake and is within the Butler Ridge Provincial Park.  BT documented nearby in Williston Lake. Two CBS upstream that are likely not present but should be confirmed.</desc>
-</wpt>
-<wpt lat="54.954937720740226" lon="-122.989990662602807">
-  <name>198667 - NA</name>
-  <desc>bt_rearing - 18.8km. NA</desc>
-</wpt>
 <wpt lat="54.937293737811331" lon="-122.9692359339343">
   <name>198668 - NA</name>
   <desc>bt_rearing - 0.6km. NA</desc>
-</wpt>
-<wpt lat="54.681048858310113" lon="-122.818006766306681">
-  <name>198692 - NA</name>
-  <desc>bt_rearing - 2.3km. NA</desc>
-</wpt>
-<wpt lat="55.996666926198877" lon="-122.512191995076734">
-  <name>23502802 - mod</name>
-  <desc>bt_rearing - 6.3km. Trib to Gaylard Creek which has documented BT.  6km of BT habitat modelled upstream. Next upstream crossing is a bridge,  then one possible CBS.</desc>
-</wpt>
-<wpt lat="55.974946177849816" lon="-122.263518171258283">
-  <name>23502870 - mod</name>
-  <desc>bt_rearing - 3.3km. Trib to Gething Creek which has documented BT. Culvert documented in FISS at the confluence of this stream and Gething Creek. No other CBS upstream.  Not fish documented in stream.</desc>
-</wpt>
-<wpt lat="56.000701437563137" lon="-122.498800534337789">
-  <name>23502871 - high</name>
-  <desc>bt_rearing - 34.6km. BT documented upstream. 34 km of BT rearing habitat modelled upstream.  Next upstream crossing is a bridge, then only a few possible CBS located upstream of that.</desc>
 </wpt>
 <wpt lat="55.185302193148217" lon="-123.006690393142947">
   <name>24718358 - mod</name>
   <desc>bt_rearing - 12.5km. Railway crossing and another highway crossing upstream with no bridge. No fish documented in the stream. Two expensive fixes.</desc>
 </wpt>
-<wpt lat="55.073170186877405" lon="-124.22735349634749">
-  <name>62622 - mod</name>
-  <desc>bt_rearing - 18.9km. 100% backwatered at time of assessement in 2012.  Stream drains a lake and 18km of BT rearing habitat.  CSU;RB;RSC documented usptream.  Only two other CBS upstream on separate tribs.</desc>
-</wpt>
 <wpt lat="55.114289246279689" lon="-124.216243551398961">
-  <name>62623 - high</name>
+  <name>62623 - mod</name>
   <desc>bt_rearing - 8.4km. Previously assessed in 2012, 0.4m outlet drop, and high value habitat.  Large drainage that drains a couple lakes. No other crossings noted upstream.</desc>
 </wpt>
 <wpt lat="55.157532312088748" lon="-123.157444639716914">
   <name>6559 - mod</name>
-  <desc>bt_rearing - 2.1km. Assessed in 2006 and trout observed in outlet pool. Worth reassessing.  Wetland habitat upstream.</desc>
+  <desc>bt_rearing - 2.1km. Assessed in 2006 and trout observed in outlet pool. Wetland habitat upstream.</desc>
 </wpt>
 <wpt lat="55.157146499579746" lon="-123.21063046672522">
   <name>6564 - mod</name>
-  <desc>bt_rearing - 4.1km. First assessed in 2006.  RB documented in trib that joins just downstream of this crossing.  Reassess if there is time.</desc>
-</wpt>
-<wpt lat="55.83043778593877" lon="-123.18191087979973">
-  <name>7819 - mod</name>
-  <desc>bt_rearing - 5.2km. Crossing was assessed in 2010.  No fish documented in the stream, but BT documented in the stream that forks to the west downstream.  CBS upstream likely not present.</desc>
-</wpt>
-<wpt lat="55.622883247891231" lon="-122.903864697504289">
-  <name>7827 - high</name>
-  <desc>bt_rearing - 9.8km. Ranked as a barrier in 2010.  BT captured upstream in 2017. by @culling_etal2020Peacereach. No other CBS upstream.</desc>
+  <desc>bt_rearing - 4.1km. Large outlet dro pon 3m wide stream. First assessed in 2006.  RB documented in trib that joins just downstream of this crossing.</desc>
 </wpt>
 </gpx>
