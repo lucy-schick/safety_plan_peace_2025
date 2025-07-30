@@ -121,7 +121,7 @@ The latest version of this pdf can be downloaded [here](`r knitr::asis_output(li
 
 <br>
 
-This project has two primary goals. The first is to conduct fish passage (Phase 1) and habitat confirmation (Phase 2) assessments within the Nation River, Upper Peace River, Parsnip Arm, and Peace Arm watershed groups. The second goal is to implement baseline monitoring at previously assessed and/or remediated crossings in the Parsnip, Crooked, and Carp River watershed groups. Fieldwork will include electrofishing at permitted sites and collection of environmental DNA (eDNA) samples. 
+This project has two primary goals. The first is to conduct fish passage (Phase 1) and habitat confirmation (Phase 2) assessments within the Nation River watershed group. The second goal is to implement baseline monitoring at previously assessed and/or remediated crossings in the Parsnip, Crooked, and Carp River watershed groups. Fieldwork will include electrofishing at permitted sites and collection of environmental DNA (eDNA) samples. 
 
 <br>
 
@@ -306,7 +306,7 @@ We will be driving on forest service roads where it is essential to exercise cau
 
 ## Field Plan {.unnumbered}
 
-Fieldwork will focus on baseline monitoring in the Parsnip, Crooked, and Carp River watershed groups, and fish passage (Phase 1) and habitat confirmation (Phase 2) assessments in the Nation River, Upper Peace River, Parsnip Arm, and Peace Arm watershed groups. Activities will include electrofishing at permitted sites and the collection of environmental DNA (eDNA) samples. Crews from McLeod Lake Indian Band and other partners will support the fieldwork. 
+Fieldwork will focus on baseline monitoring in the Parsnip, Crooked, and Carp River watershed groups, and fish passage (Phase 1) and habitat confirmation (Phase 2) assessments in the Nation River watershed group. Activities will include electrofishing at permitted sites and the collection of environmental DNA (eDNA) samples. Crews from McLeod Lake Indian Band and other partners will support the fieldwork. 
 
 <br>
 
